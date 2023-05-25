@@ -4,7 +4,7 @@
 </p>
 
 ## 💻 Projeto
-Esse é um projeto Web desenvolvido durante a Trilha Digital | Web Front-End.
+Esse é um projeto Web desenvolvido durante a Trilha Digital | Web Front-End da Ada Tech.
 
 ## 🚀 Tecnologias
 Esse projeto foi desenvolvido com as seguintes tecnologias:
